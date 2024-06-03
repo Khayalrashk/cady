@@ -53,9 +53,13 @@
         "description": "ضع هنا كود بايروجرام الحساب المساعد استخرجه من هذا البوت @t66bot",
         "value": "",
         "required": true 
- 
      },
       "STRING_SESSION2": {
+        "description": "ضع هنا كود بايروجرام الحساب المساعد استخرجه من هذا البوت @t66bot",
+        "value": "",
+        "required": true
+      },
+      "SESSION2": {
         "description": "ضع هنا كود بايروجرام الحساب المساعد استخرجه من هذا البوت @t66bot",
         "value": "",
         "required": true
