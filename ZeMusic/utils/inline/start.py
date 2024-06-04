@@ -37,7 +37,7 @@ def private_panel(_):
             InlineKeyboardButton(text="𝐃𝐞𝐯", user_id=config.OWNER_ID),
             InlineKeyboardButton(text=config.CHANNEL_NAME, url=config.CHANNEL_LINK)
         ],
-        [InlineKeyboardButton(text="صناعة بوت مماثل", url=f"https://t.me/SOURCELARIN"),
+        [InlineKeyboardButton(text="• 𝐊𝐡𝐚𝐲𝐚𝐥 𓏺", url=f"https://t.me/F_A_6"),
  ],
     ]
     return buttons
